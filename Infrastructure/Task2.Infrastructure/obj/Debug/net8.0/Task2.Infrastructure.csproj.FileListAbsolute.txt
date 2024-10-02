@@ -1,0 +1,17 @@
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\bin\Debug\net8.0\Task2.Infrastructure.deps.json
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\bin\Debug\net8.0\Task2.Infrastructure.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\bin\Debug\net8.0\Task2.Infrastructure.pdb
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\bin\Debug\net8.0\Task2.Application.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\bin\Debug\net8.0\Task2.Domain.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\bin\Debug\net8.0\Task2.Application.pdb
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\bin\Debug\net8.0\Task2.Domain.pdb
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\obj\Debug\net8.0\Task2.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\obj\Debug\net8.0\Task2.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\obj\Debug\net8.0\Task2.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\obj\Debug\net8.0\Task2.Infrastructure.AssemblyInfo.cs
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\obj\Debug\net8.0\Task2.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\obj\Debug\net8.0\Task2.In.35C960AB.Up2Date
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\obj\Debug\net8.0\Task2.Infrastructure.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\obj\Debug\net8.0\refint\Task2.Infrastructure.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\obj\Debug\net8.0\Task2.Infrastructure.pdb
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Infrastructure\Task2.Infrastructure\obj\Debug\net8.0\ref\Task2.Infrastructure.dll

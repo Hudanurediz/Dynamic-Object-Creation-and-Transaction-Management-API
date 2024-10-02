@@ -1,0 +1,1987 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{559C8DE3-C145-4EBE-8CB4-93A39227D31A}|Host\\Task2.WebApi\\Task2.WebApi.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\host\\task2.webapi\\controllers\\generalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559C8DE3-C145-4EBE-8CB4-93A39227D31A}|Host\\Task2.WebApi\\Task2.WebApi.csproj|solutionrelative:host\\task2.webapi\\controllers\\generalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\repositories\\product\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\repositories\\product\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\repositories\\customer\\customerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\repositories\\customer\\customerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\commands\\deletecustomer\\deletecustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\commands\\deletecustomer\\deletecustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\commands\\deleteaddress\\deleteaddressqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\commands\\deleteaddress\\deleteaddressqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\dto\\deleterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\dto\\deleterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\repositories\\order\\orderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\repositories\\order\\orderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002101149_fixissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20241002101149_fixissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\dto\\createrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\dto\\createrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|solutionrelative:core\\task2.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|solutionrelative:core\\task2.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\migrations\\20241002095854_createmig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\migrations\\20241002095854_createmig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\migrations\\20241002095505_createmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\migrations\\20241002095505_createmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559C8DE3-C145-4EBE-8CB4-93A39227D31A}|Host\\Task2.WebApi\\Task2.WebApi.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\host\\task2.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{559C8DE3-C145-4EBE-8CB4-93A39227D31A}|Host\\Task2.WebApi\\Task2.WebApi.csproj|solutionrelative:host\\task2.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094850_createmig6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20241002094850_createmig6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094656_createmig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20241002094656_createmig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|solutionrelative:core\\task2.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|solutionrelative:core\\task2.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.domain\\entities\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|solutionrelative:core\\task2.domain\\entities\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937525B-5278-4B01-8CBF-16FAAB3809CC}|Core\\Task2.Domain\\Task2.Domain.csproj|solutionrelative:core\\task2.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094249_createmig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20241002094249_createmig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094116_createmig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20241002094116_createmig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002093939_createmig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20241002093939_createmig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002093421_createmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20241002093421_createmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002093206_initial6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20241002093206_initial6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002090516_updatedeleteoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20241002090516_updatedeleteoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orders\\commands\\createorder\\createorderqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orders\\commands\\createorder\\createorderqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\repositories\\order\\orderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\repositories\\order\\orderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\abstractions\\order\\iorderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\abstractions\\order\\iorderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orders\\commands\\createorder\\createorderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orders\\commands\\createorder\\createorderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\commands\\createproduct\\createproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\commands\\createproduct\\createproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\commands\\createproduct\\createproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\commands\\createproduct\\createproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\commands\\createcustomer\\createcustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\commands\\createcustomer\\createcustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orders\\commands\\createorder\\createorderqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orders\\commands\\createorder\\createorderqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\abstractions\\customer\\icustomerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\abstractions\\customer\\icustomerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\abstractions\\customer\\icustomerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\abstractions\\customer\\icustomerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\repositories\\customer\\customerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\repositories\\customer\\customerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\commands\\updateaddress\\updateaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\commands\\updateaddress\\updateaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\commands\\updateaddress\\updateaddressqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\commands\\updateaddress\\updateaddressqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orders\\commands\\updateorder\\updateorderqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orders\\commands\\updateorder\\updateorderqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\commands\\updatecustomer\\updatecustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\commands\\updatecustomer\\updatecustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\commands\\createcustomer\\createcustomerqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\commands\\createcustomer\\createcustomerqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orderproducts\\commands\\createorderproduct\\createorderproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orderproducts\\commands\\createorderproduct\\createorderproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\queries\\getallcustomers\\getallcustomersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\queries\\getallcustomers\\getallcustomersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\commands\\createaddress\\createaddressqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\commands\\createaddress\\createaddressqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\commands\\createaddress\\createaddressqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\commands\\createaddress\\createaddressqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\commands\\updateaddress\\updateaddressqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\commands\\updateaddress\\updateaddressqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\commands\\updatecustomer\\updatecustomerqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\commands\\updatecustomer\\updatecustomerqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\commands\\updatecustomer\\updatecustomerqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\commands\\updatecustomer\\updatecustomerqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\commands\\createaddress\\createaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\commands\\createaddress\\createaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\commands\\updateproduct\\updateproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\commands\\updateproduct\\updateproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\commands\\updateproduct\\updateproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\commands\\updateproduct\\updateproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orders\\commands\\updateorder\\updateorderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orders\\commands\\updateorder\\updateorderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orderproducts\\commands\\updateorderproduct\\updateorderproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orderproducts\\commands\\updateorderproduct\\updateorderproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orderproducts\\commands\\updateorderproduct\\updateorderproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orderproducts\\commands\\updateorderproduct\\updateorderproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orderproducts\\commands\\createorderproduct\\createorderproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orderproducts\\commands\\createorderproduct\\createorderproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orders\\commands\\updateorder\\updateorderqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orders\\commands\\updateorder\\updateorderqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\serviceregistirations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\serviceregistirations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559C8DE3-C145-4EBE-8CB4-93A39227D31A}|Host\\Task2.WebApi\\Task2.WebApi.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\host\\task2.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559C8DE3-C145-4EBE-8CB4-93A39227D31A}|Host\\Task2.WebApi\\Task2.WebApi.csproj|solutionrelative:host\\task2.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orderproducts\\commands\\createorderproduct\\createorderproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orderproducts\\commands\\createorderproduct\\createorderproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\queries\\searchaddress\\searchaddressqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\queries\\searchaddress\\searchaddressqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\queries\\searchaddress\\searchaddressqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\queries\\searchaddress\\searchaddressqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\queries\\searchaddress\\searchaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\queries\\searchaddress\\searchaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\queries\\getbyidaddress\\getbyidaddressqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\queries\\getbyidaddress\\getbyidaddressqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\queries\\getbyidaddress\\getbyidaddressqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\queries\\getbyidaddress\\getbyidaddressqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\queries\\getbyidaddress\\getbyidaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\queries\\getbyidaddress\\getbyidaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\queries\\getalladdresses\\getalladdressesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\queries\\getalladdresses\\getalladdressesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\queries\\getalladdresses\\getalladdressesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\queries\\getalladdresses\\getalladdressesqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\queries\\getalladdresses\\getalladdressesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\queries\\getalladdresses\\getalladdressesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\commands\\deleteaddress\\deleteaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\commands\\deleteaddress\\deleteaddressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930194059_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20240930194059_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\repositories\\orderproduct\\orderproductreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\repositories\\orderproduct\\orderproductreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\commands\\updateproduct\\updateproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\commands\\updateproduct\\updateproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\commands\\deleteproduct\\deleteproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\commands\\deleteproduct\\deleteproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\commands\\deleteproduct\\deleteproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\commands\\deleteproduct\\deleteproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\commands\\deleteproduct\\deleteproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\commands\\deleteproduct\\deleteproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930190928_initial4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20240930190928_initial4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\repositories\\product\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\repositories\\product\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\abstractions\\product\\iproductreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\abstractions\\product\\iproductreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\queries\\searchproduct\\searchproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\queries\\searchproduct\\searchproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\queries\\searchproduct\\searchproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\queries\\searchproduct\\searchproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\queries\\searchproduct\\searchproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\queries\\searchproduct\\searchproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\queries\\getbyidproduct\\getbyidproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\queries\\getbyidproduct\\getbyidproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\queries\\getbyidproduct\\getbyidproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\queries\\getbyidproduct\\getbyidproductqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\queries\\getbyidproduct\\getbyidproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\queries\\getbyidproduct\\getbyidproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\queries\\getallproducts\\getallproductsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\queries\\getallproducts\\getallproductsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\queries\\getallproducts\\getallproductsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\queries\\getallproducts\\getallproductsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\queries\\getallproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\queries\\getallproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\products\\commands\\createproduct\\createproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\products\\commands\\createproduct\\createproductqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930184944_initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20240930184944_initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orders\\commands\\deleteorder\\deleteorderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orders\\commands\\deleteorder\\deleteorderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\repositories\\orderproduct\\orderproductwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\repositories\\orderproduct\\orderproductwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930172451_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20240930172451_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930171917_Mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20240930171917_Mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orders\\queries\\getallorders\\getallordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orders\\queries\\getallorders\\getallordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\queries\\searchcustomer\\searchcustomerqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\queries\\searchcustomer\\searchcustomerqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\queries\\searchcustomer\\searchcustomerqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\queries\\searchcustomer\\searchcustomerqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\queries\\searchcustomer\\searchcustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\queries\\searchcustomer\\searchcustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\queries\\getbyidcustomer\\getbyidcustomerqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\queries\\getbyidcustomer\\getbyidcustomerqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\queries\\getbyidcustomer\\getbyidcustomerqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\queries\\getbyidcustomer\\getbyidcustomerqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\queries\\getbyidcustomer\\getbyidcustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\queries\\getbyidcustomer\\getbyidcustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\queries\\getallcustomers\\getallcustomersqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\queries\\getallcustomers\\getallcustomersqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\queries\\getallcustomers\\getallcustomersqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\queries\\getallcustomers\\getallcustomersqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\commands\\deletecustomer\\deletecustomerqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\commands\\deletecustomer\\deletecustomerqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\customers\\commands\\deletecustomer\\deletecustomerqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\customers\\commands\\deletecustomer\\deletecustomerqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\addresses\\commands\\deleteaddress\\deleteaddressqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\addresses\\commands\\deleteaddress\\deleteaddressqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\features\\orderproducts\\commands\\deleteorderproduct\\deleteorderproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\features\\orderproducts\\commands\\deleteorderproduct\\deleteorderproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930132621_Mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Task2.Persistance\\Migrations\\20240930132621_Mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\Migrations\\20240930132358_Migggggg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Host\\Task2.WebApi\\Migrations\\20240930132358_Migggggg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\Migrations\\20240930132138_Mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Host\\Task2.WebApi\\Migrations\\20240930132138_Mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\dto\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\dto\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\dto\\updaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\dto\\updaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\infrastructure\\task2.persistance\\repositories\\address\\addressreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFD4880-09A2-4F22-A46C-FC7920C0F9E3}|Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj|solutionrelative:infrastructure\\task2.persistance\\repositories\\address\\addressreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|c:\\users\\hudan\\onedrive\\masa\u00FCst\u00FC\\task2\\task2\\core\\task2.application\\abstractions\\address\\iaddressreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEABFEE-B4A8-47F8-A3A4-FF5FC6293F2F}|Core\\Task2.Application\\Task2.Application.csproj|solutionrelative:core\\task2.application\\abstractions\\address\\iaddressreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Dto\\GetByIdRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Task2.Application\\Dto\\GetByIdRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241002094656_createmig5.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094656_createmig5.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20241002094656_createmig5.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094656_createmig5.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20241002094656_createmig5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:46:57.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneralController.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\Controllers\\GeneralController.cs",
+              "RelativeDocumentMoniker": "Host\\Task2.WebApi\\Controllers\\GeneralController.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\Controllers\\GeneralController.cs",
+              "RelativeToolTip": "Host\\Task2.WebApi\\Controllers\\GeneralController.cs",
+              "ViewState": "AQIAADEBAAAAAAAAAAAowE0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:10:09.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAkwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:17:26.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Abstractions\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\IReadRepository.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Abstractions\\IReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:17:11.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Repositories\\WriteRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:57:53.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:39:59.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241002094850_createmig6.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094850_createmig6.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20241002094850_createmig6.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094850_createmig6.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20241002094850_createmig6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:48:51.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Dto\\DeleteRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Dto\\DeleteRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Dto\\DeleteRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Dto\\DeleteRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:18:57.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteAddressQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:58:08.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Product\\ProductWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Repositories\\Product\\ProductWriteRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Product\\ProductWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Repositories\\Product\\ProductWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:48:57.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteCustomerQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryHandler.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:48:37.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Host\\Task2.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\appsettings.json",
+              "RelativeToolTip": "Host\\Task2.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T09:54:51.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Order\\OrderWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Repositories\\Order\\OrderWriteRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Order\\OrderWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Repositories\\Order\\OrderWriteRepository.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwCoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:31:37.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Core\\Task2.Domain\\Entities\\Customer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:43:25.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241002095505_createmig.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002095505_createmig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20241002095505_createmig.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002095505_createmig.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20241002095505_createmig.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:55:05.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241002101149_fixissues.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002101149_fixissues.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20241002101149_fixissues.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002101149_fixissues.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20241002101149_fixissues.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:11:50.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwD0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:20:44.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Dto\\CreateRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Dto\\CreateRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Dto\\CreateRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Dto\\CreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:18:53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Domain\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Task2.Domain\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:33:26.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241002095854_createmig2.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002095854_createmig2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20241002095854_createmig2.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002095854_createmig2.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20241002095854_createmig2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:58:54.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Core\\Task2.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:11:00.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\Task2.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:47:28.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Domain\\Entities\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\OrderProduct.cs",
+              "RelativeToolTip": "Core\\Task2.Domain\\Entities\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:44:31.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Domain\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Domain\\Entities\\Address.cs",
+              "RelativeToolTip": "Core\\Task2.Domain\\Entities\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:43:24.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241002094249_createmig4.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094249_createmig4.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20241002094249_createmig4.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094249_createmig4.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20241002094249_createmig4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:42:50.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241002094116_createmig3.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094116_createmig3.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20241002094116_createmig3.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002094116_createmig3.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20241002094116_createmig3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:41:16.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241002093939_createmig2.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002093939_createmig2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20241002093939_createmig2.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002093939_createmig2.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20241002093939_createmig2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:39:39.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241002093421_createmig.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002093421_createmig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20241002093421_createmig.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002093421_createmig.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20241002093421_createmig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:34:21.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241002093206_initial6.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002093206_initial6.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20241002093206_initial6.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002093206_initial6.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20241002093206_initial6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:32:06.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241002090516_updatedeleteoperations.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002090516_updatedeleteoperations.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20241002090516_updatedeleteoperations.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20241002090516_updatedeleteoperations.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20241002090516_updatedeleteoperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:05:16.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateOrderQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:10:42.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateOrderQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:10:35.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IOrderWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\Order\\IOrderWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Abstractions\\Order\\IOrderWriteRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\Order\\IOrderWriteRepository.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Abstractions\\Order\\IOrderWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:21:17.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Order\\OrderReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Repositories\\Order\\OrderReadRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Order\\OrderReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Repositories\\Order\\OrderReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:31:35.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateOrderQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:07:37.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAhwB0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:48:00.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateProductQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:09:19.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateCustomerQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\CreateCustomer\\CreateCustomerQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Commands\\CreateCustomer\\CreateCustomerQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\CreateCustomer\\CreateCustomerQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Commands\\CreateCustomer\\CreateCustomerQueryHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:02:21.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ICustomerReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\Customer\\ICustomerReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Abstractions\\Customer\\ICustomerReadRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\Customer\\ICustomerReadRepository.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Abstractions\\Customer\\ICustomerReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:19:04.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICustomerWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\Customer\\ICustomerWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Abstractions\\Customer\\ICustomerWriteRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\Customer\\ICustomerWriteRepository.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Abstractions\\Customer\\ICustomerWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:11:18.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:18:14.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateAddressQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:55:51.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateOrderQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:07:54.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateAddressQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:55:52.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateCustomerQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryHandler.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:00:34.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateCustomerQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\CreateCustomer\\CreateCustomerQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Commands\\CreateCustomer\\CreateCustomerQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\CreateCustomer\\CreateCustomerQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Commands\\CreateCustomer\\CreateCustomerQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:01:21.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Abstractions\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\IWriteRepository.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Abstractions\\IWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:51:56.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateOrderProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:12:44.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetAllCustomersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:06:26.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Abstractions\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:17:10.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateAddressQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:30:14.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateAddressQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:58:05.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UpdateCustomerQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:00:36.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdateAddressQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Commands\\UpdateAddress\\UpdateAddressQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:58:20.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UpdateCustomerQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Commands\\UpdateCustomer\\UpdateCustomerQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:06:23.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CreateAddressQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Commands\\CreateAddress\\CreateAddressQueryHandler.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:08:54.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateProductQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:09:55.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdateProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryHandler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAABBwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:09:53.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UpdateOrderQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAABBwCMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:58:48.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UpdateOrderProductQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\UpdateOrderProduct\\UpdateOrderProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\UpdateOrderProduct\\UpdateOrderProductQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\UpdateOrderProduct\\UpdateOrderProductQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\UpdateOrderProduct\\UpdateOrderProductQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:48:14.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UpdateOrderProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\UpdateOrderProduct\\UpdateOrderProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\UpdateOrderProduct\\UpdateOrderProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\UpdateOrderProduct\\UpdateOrderProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\UpdateOrderProduct\\UpdateOrderProductQueryHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABBwCkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:29:51.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CreateOrderProductQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:12:47.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UpdateOrderQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:08:25.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ServiceRegistirations.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\ServiceRegistirations.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\ServiceRegistirations.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\ServiceRegistirations.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\ServiceRegistirations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:01:04.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:54:05.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Host\\Task2.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\Program.cs",
+              "RelativeToolTip": "Host\\Task2.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:54:13.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CreateOrderProductQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\CreateOrderProduct\\CreateOrderProductQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:07:04.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SearchAddressQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:59:43.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SearchAddressQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:59:41.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "SearchAddressQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Queries\\SearchAddress\\SearchAddressQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:59:36.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GetByIdAddressQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:59:33.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "GetByIdAddressQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:59:33.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "GetByIdAddressQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetByIdAddress\\GetByIdAddressQueryHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:59:29.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "GetAllAddressesQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:19:31.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "GetAllAddressesQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:19:30.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "GetAllAddressesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Queries\\GetAllAddresses\\GetAllAddressesQueryHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABBwBwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:19:36.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "DeleteAddressQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:29:10.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "OrderProductReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\OrderProduct\\OrderProductReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Repositories\\OrderProduct\\OrderProductReadRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\OrderProduct\\OrderProductReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Repositories\\OrderProduct\\OrderProductReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:32:43.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20240930194059_initial.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930194059_initial.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20240930194059_initial.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930194059_initial.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20240930194059_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:40:59.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "UpdateProductQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:04:34.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "DeleteProductQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:04:08.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "DeleteProductQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:08:01.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "DeleteProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:04:07.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SearchProductQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:08:38.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "SearchProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:08:30.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20240930190928_initial4.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930190928_initial4.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20240930190928_initial4.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930190928_initial4.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20240930190928_initial4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:09:28.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "SearchProductQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Queries\\SearchProduct\\SearchProductQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:08:37.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IProductReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\Product\\IProductReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Abstractions\\Product\\IProductReadRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\Product\\IProductReadRepository.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Abstractions\\Product\\IProductReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:03:48.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "GetByIdProductQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:08:28.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ProductReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Product\\ProductReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Repositories\\Product\\ProductReadRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Product\\ProductReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Repositories\\Product\\ProductReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:08:52.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "GetByIdProductQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:08:27.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "GetByIdProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Queries\\GetByIdProduct\\GetByIdProductQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:08:19.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "GetAllProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:04:38.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "GetAllProductsQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:04:47.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "GetAllProductsQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:04:49.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "CreateProductQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:22:51.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20240930184944_initial3.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930184944_initial3.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20240930184944_initial3.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930184944_initial3.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20240930184944_initial3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:49:44.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DeleteOrderQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Orders\\Commands\\DeleteOrder\\DeleteOrderQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:08:58.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "OrderProductWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\OrderProduct\\OrderProductWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Repositories\\OrderProduct\\OrderProductWriteRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\OrderProduct\\OrderProductWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Repositories\\OrderProduct\\OrderProductWriteRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:32:44.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20240930172451_initial.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930172451_initial.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20240930172451_initial.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930172451_initial.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20240930172451_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:24:52.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20240930171917_Mig3.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930171917_Mig3.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20240930171917_Mig3.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930171917_Mig3.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20240930171917_Mig3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:19:17.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "GetAllOrdersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:08:51.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "SearchCustomerQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:06:38.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "SearchCustomerQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:06:36.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "SearchCustomerQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Queries\\SearchCustomer\\SearchCustomerQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:06:34.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "GetByIdCustomerQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:06:31.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "GetByIdCustomerQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:06:30.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "GetByIdCustomerQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetByIdCustomer\\GetByIdCustomerQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:06:29.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "GetAllCustomersQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:06:27.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "GetAllCustomersQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Queries\\GetAllCustomers\\GetAllCustomersQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:06:26.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "DeleteCustomerQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:48:37.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "DeleteCustomerQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Customers\\Commands\\DeleteCustomer\\DeleteCustomerQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:48:38.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "DeleteAddressQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryResponse.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryResponse.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\Addresses\\Commands\\DeleteAddress\\DeleteAddressQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:58:10.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "20240930132621_Mig2.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930132621_Mig2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Migrations\\20240930132621_Mig2.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Migrations\\20240930132621_Mig2.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Migrations\\20240930132621_Mig2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:26:21.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "DeleteOrderProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\DeleteOrderProduct\\DeleteOrderProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\DeleteOrderProduct\\DeleteOrderProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Features\\OrderProducts\\Commands\\DeleteOrderProduct\\DeleteOrderProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Features\\OrderProducts\\Commands\\DeleteOrderProduct\\DeleteOrderProductQueryHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:51:25.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "20240930132358_Migggggg.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\Migrations\\20240930132358_Migggggg.cs",
+              "RelativeDocumentMoniker": "Host\\Task2.WebApi\\Migrations\\20240930132358_Migggggg.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\Migrations\\20240930132358_Migggggg.cs",
+              "RelativeToolTip": "Host\\Task2.WebApi\\Migrations\\20240930132358_Migggggg.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:23:58.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "20240930132138_Mig2.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\Migrations\\20240930132138_Mig2.cs",
+              "RelativeDocumentMoniker": "Host\\Task2.WebApi\\Migrations\\20240930132138_Mig2.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Host\\Task2.WebApi\\Migrations\\20240930132138_Mig2.cs",
+              "RelativeToolTip": "Host\\Task2.WebApi\\Migrations\\20240930132138_Mig2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:21:38.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "SearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Dto\\SearchRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Dto\\SearchRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Dto\\SearchRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Dto\\SearchRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:38:28.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "UpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Dto\\UpdateRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Dto\\UpdateRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Dto\\UpdateRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Dto\\UpdateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:21:43.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "GetByIdRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Dto\\GetByIdRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Dto\\GetByIdRequest.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Dto\\GetByIdRequest.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Dto\\GetByIdRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:21:25.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "AddressReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Address\\AddressReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Task2.Persistance\\Repositories\\Address\\AddressReadRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Repositories\\Address\\AddressReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Task2.Persistance\\Repositories\\Address\\AddressReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:33:46.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "IAddressReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\Address\\IAddressReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Task2.Application\\Abstractions\\Address\\IAddressReadRepository.cs",
+              "ToolTip": "C:\\Users\\hudan\\OneDrive\\Masa\u00FCst\u00FC\\task2\\Task2\\Core\\Task2.Application\\Abstractions\\Address\\IAddressReadRepository.cs",
+              "RelativeToolTip": "Core\\Task2.Application\\Abstractions\\Address\\IAddressReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:19:12.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

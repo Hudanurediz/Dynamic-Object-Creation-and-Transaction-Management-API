@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Host\\Task2.WebApi\\Task2.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Application\\Task2.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Application\\Task2.Application.csproj",
+        "projectName": "Task2.Application",
+        "projectPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Application\\Task2.Application.csproj",
+        "packagesPath": "C:\\Users\\hudan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hudan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Domain\\Task2.Domain.csproj": {
+                "projectPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Domain\\Task2.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Domain\\Task2.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Domain\\Task2.Domain.csproj",
+        "projectName": "Task2.Domain",
+        "projectPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Domain\\Task2.Domain.csproj",
+        "packagesPath": "C:\\Users\\hudan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hudan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Host\\Task2.WebApi\\Task2.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Host\\Task2.WebApi\\Task2.WebApi.csproj",
+        "projectName": "Task2.WebApi",
+        "projectPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Host\\Task2.WebApi\\Task2.WebApi.csproj",
+        "packagesPath": "C:\\Users\\hudan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Host\\Task2.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hudan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Application\\Task2.Application.csproj": {
+                "projectPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Application\\Task2.Application.csproj"
+              },
+              "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj": {
+                "projectPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj",
+        "projectName": "Task2.Persistance",
+        "projectPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Infrastructure\\Task2.Persistance\\Task2.Persistance.csproj",
+        "packagesPath": "C:\\Users\\hudan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Infrastructure\\Task2.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hudan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Application\\Task2.Application.csproj": {
+                "projectPath": "C:\\Users\\hudan\\OneDrive\\Masaüstü\\task2\\Task2\\Core\\Task2.Application\\Task2.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

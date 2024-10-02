@@ -1,0 +1,11 @@
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Domain\bin\Debug\net8.0\Task2.Domain.deps.json
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Domain\bin\Debug\net8.0\Task2.Domain.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Domain\bin\Debug\net8.0\Task2.Domain.pdb
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Domain\obj\Debug\net8.0\Task2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Domain\obj\Debug\net8.0\Task2.Domain.AssemblyInfoInputs.cache
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Domain\obj\Debug\net8.0\Task2.Domain.AssemblyInfo.cs
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Domain\obj\Debug\net8.0\Task2.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Domain\obj\Debug\net8.0\Task2.Domain.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Domain\obj\Debug\net8.0\refint\Task2.Domain.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Domain\obj\Debug\net8.0\Task2.Domain.pdb
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Domain\obj\Debug\net8.0\ref\Task2.Domain.dll

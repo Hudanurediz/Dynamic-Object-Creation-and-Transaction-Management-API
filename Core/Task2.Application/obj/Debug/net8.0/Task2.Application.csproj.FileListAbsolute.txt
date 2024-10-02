@@ -1,0 +1,17 @@
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\obj\Debug\net8.0\Task2.Application.csproj.AssemblyReference.cache
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\obj\Debug\net8.0\Task2.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\obj\Debug\net8.0\Task2.Application.AssemblyInfoInputs.cache
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\obj\Debug\net8.0\Task2.Application.AssemblyInfo.cs
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\obj\Debug\net8.0\Task2.Application.csproj.CoreCompileInputs.cache
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\bin\Debug\net8.0\Task2.Application.deps.json
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\bin\Debug\net8.0\Task2.Application.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\bin\Debug\net8.0\Task2.Application.pdb
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\bin\Debug\net8.0\Task2.Domain.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\bin\Debug\net8.0\Task2.Domain.pdb
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\obj\Debug\net8.0\Task2.Ap.838F01EF.Up2Date
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\obj\Debug\net8.0\Task2.Application.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\obj\Debug\net8.0\refint\Task2.Application.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\obj\Debug\net8.0\Task2.Application.pdb
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\obj\Debug\net8.0\ref\Task2.Application.dll
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\bin\Debug\net8.0\Task2.Application.runtimeconfig.json
+C:\Users\hudan\OneDrive\Masaüstü\task2\Task2\Core\Task2.Application\obj\Debug\net8.0\Task2.Application.genruntimeconfig.cache
